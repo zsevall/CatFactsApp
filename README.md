@@ -1,7 +1,9 @@
 # CatFactsApp
 
 ## Overview
-**CatFactsApp** is a Python application designed to fetch interesting cat facts from an API and store them in an SQLite database. The application also retrieves and displays the stored facts, making it a fun and educational project for learning about API integration, database handling, and data manipulation in Python.
+**CatFactsApp** is a Python application designed to fetch interesting cat facts from an API and store them in an SQLite database. The application also retrieves and displays the stored facts, making it a fun and educational project for learning about API integration, database handling, and data manipulation in Python. 
+
+This project is part of a Upschool AI Developper course assignment.
 
 ## Features
 - Fetches random cat facts from the [Cat Fact Ninja API](https://catfact.ninja/facts).
@@ -90,4 +92,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
 
